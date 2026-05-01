@@ -16,11 +16,11 @@ const Navbar: React.FC = () => {
           aria-label="Toggle menu"
         >
           {isOpen ? (
-            <span style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
+            <span style={{ fontSize: "1.2rem", fontWeight: "bold", display: "inline-flex" }}>
               CLOSE
             </span>
           ) : (
-            <span style={{ fontSize: "1.5rem" }}>☰</span>
+            <span style={{ fontSize: "1.5rem", display: "inline-flex" }}>☰</span>
           )}
         </button>
 

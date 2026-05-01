@@ -243,11 +243,21 @@ section:last-child {
 .hamburger {
     display: none;
     background: #ffffff;
+    color: #000000;
     border: 2px solid #000000;
-    padding: 5px 12px;
+    padding: 5px;
     cursor: pointer;
     font-family: "Inter", sans-serif;
     font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-appearance: none;
+    appearance: none;
+    align-items: center;
+    justify-content: center;
+    min-width: 45px;
+    min-height: 45px;
+    z-index: 2001;
 }
 
 .nav-links {
@@ -270,8 +280,8 @@ section:last-child {
     }
 
     .hamburger {
-        display: block;
-        z-index: 2000;
+        display: flex;
+        z-index: 2001;
     }
 
     .nav-links {
