@@ -1,6 +1,6 @@
 # Sourav Bhattacharya - Professional Portfolio
 
-A modern, responsive, and high-performance portfolio website showcasing the professional journey, skills, and achievements of Sourav Bhattacharya, a Senior Full-stack Developer with over 9 years of experience.
+A modern, responsive, and high-performance portfolio website showcasing the professional journey, skills, and achievements of Sourav Bhattacharya, a Senior Full-stack Developer with over 10 years of experience.
 
 ## 🚀 Tech Stack
 

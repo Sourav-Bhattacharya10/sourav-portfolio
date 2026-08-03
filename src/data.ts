@@ -31,7 +31,7 @@ export interface Education {
 export const personalInfo: PersonalInfo = {
   name: "Sourav Bhattacharya",
   role: "Senior Full-stack Developer",
-  experience: "9 Years",
+  experience: "10 Years",
   location: "Bengaluru, India",
   email: "sourav.bhattacharya3@gmail.com",
   phone: "+91 9088388908",
